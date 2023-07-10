@@ -1,6 +1,6 @@
 Beep Boop
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gbrivady&show_icons=true&theme=transparent&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gbrivady&show_icons=true&theme=synthwave&hide=jupyter%20notebook,tex,html&size_weight=1&langs_count=4))](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
